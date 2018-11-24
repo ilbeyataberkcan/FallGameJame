@@ -75,3 +75,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+CubeMaze/Intermediate/
+CubeMaze/Saved/
+CubeMaze/Build/
+CubeMaze/Binaries/
+CubeMaze/DerivedDataCache/
+CubeMaze/Content/StarterContent/
+
+*.VC.db
